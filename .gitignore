@@ -1,0 +1,5 @@
+#android
+platforms/android/.gradle/
+platforms/android/CordovaLib/build/
+
+#ios
